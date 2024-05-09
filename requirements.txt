@@ -1,0 +1,7 @@
+pandas
+matplotlib
+statsmodels
+seaborn
+pandas_datareader
+jupyter
+requests_cache

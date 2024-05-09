@@ -1,6 +1,9 @@
 #local files
 local.ipynb
 
+#open files
+~*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -123,6 +126,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+time_series_venv/
 .env
 .venv
 env/
