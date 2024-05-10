@@ -5,3 +5,6 @@ seaborn
 pandas_datareader
 jupyter
 requests_cache
+tqdm
+scikit-learn
+arch
